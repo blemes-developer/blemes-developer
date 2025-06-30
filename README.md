@@ -5,9 +5,8 @@
 ## 🧠 Sobre mim
 
 - 🔭 Atualmente atuando como desenvolvedor Flutter na Climatempo
-- 🌱 Estudando e aplicando Machine Learning com Python (FastAPI)
 - 🧰 Experiência com Java (Spring Boot), arquitetura MVC e APIs REST/GraphQL
-- ⚙️ Foco em apps mobile, integração com APIs meteorológicas e desenvolvimento para wearables
+- ⚙️ Foco em apps mobile, integração com APIs meteorológicas
 - 🚀 Contribuí ativamente em aplicações em produção com grande volume de usuários
 
 ## 🚀 Projetos em Produção
