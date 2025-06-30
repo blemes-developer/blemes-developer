@@ -4,10 +4,23 @@
 
 ## 🧠 Sobre mim
 
-- 🔭 Atualmente trabalhando como desenvolvedor Flutter
+- 🔭 Atualmente atuando como desenvolvedor Flutter na Climatempo
 - 🌱 Estudando e aplicando Machine Learning com Python (FastAPI)
 - 🧰 Experiência com Java (Spring Boot), arquitetura MVC e APIs REST/GraphQL
-- 🏋️‍♂️ Interessado em health-tech, IA aplicada ao fitness e wearables
+- ⚙️ Foco em apps mobile, integração com APIs meteorológicas e desenvolvimento para wearables
+- 🚀 Contribuí ativamente em aplicações em produção com grande volume de usuários
+
+## 🚀 Projetos em Produção
+
+### 🔹 [Climatempo – Previsão do Tempo (B2C)](https://play.google.com/store/apps/details?id=com.mobimidia.climaTempo)
+App oficial da Climatempo com milhões de downloads. Entrega previsões hiperlocais, alertas e notícias sobre o clima.  
+📱 Desenvolvido com Flutter, com foco em performance, UI responsiva e integração com APIs meteorológicas.  
+🛠 Atuação em novas funcionalidades, refatorações e manutenção da arquitetura.
+
+### 🔹 [SMAC – Soluções Meteorológicas Avançadas Climatempo (B2B)](https://play.google.com/store/apps/details?id=br.com.climatempo.ctsuite)
+Aplicativo empresarial voltado ao agronegócio, logística e energia.  
+💼 Dashboard de dados meteorológicos sob demanda para grandes empresas.  
+🔒 Participei do desenvolvimento de features específicas com foco em segurança e confiabilidade.
 
 ## 💻 Tecnologias e Ferramentas
 
