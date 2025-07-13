@@ -36,7 +36,7 @@ Aplicativo corporativo de monitoramento climático para grandes empresas.
 
 ---
 
-### 🔹 Plataforma Agroclimática – Clima para o Produtor Rural  
+### 🔹 [Plataforma Agroclimática – Clima para o Produtor Rural](https://agroclima.climatempo.com.br/)  
 Ferramenta digital voltada ao agronegócio com foco em decisões baseadas no clima.  
 🗺️ Mapas interativos de chuva, umidade, risco de queimadas e alagamentos.  
 📑 Boletins semanais com análises climáticas para o campo.  
