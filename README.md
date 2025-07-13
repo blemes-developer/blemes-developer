@@ -11,7 +11,7 @@
 
 ## 🚀 Projetos em Produção
 
-### 🔹 [Climatempo – Previsão do Tempo (B2C)](https://play.google.com/store/apps/details?id=com.mobimidia.climaTempo)  
+### 🔹 [App Climatempo – Previsão do Tempo (B2C)](https://play.google.com/store/apps/details?id=com.mobimidia.climaTempo)  
 App oficial da Climatempo com milhões de downloads, referência nacional em previsões do tempo.  
 📱 Desenvolvido com Flutter, com foco em performance, UI responsiva e integração com APIs meteorológicas.  
 🛠 Atuação em novas funcionalidades, refatorações e manutenção da arquitetura.  
@@ -20,7 +20,7 @@ App oficial da Climatempo com milhões de downloads, referência nacional em pre
 
 ---
 
-### 🔹 [SMAC – Soluções Meteorológicas Avançadas Climatempo (B2B)](https://play.google.com/store/apps/details?id=br.com.climatempo.ctsuite)  
+### 🔹 [App SMAC – Soluções Meteorológicas Avançadas Climatempo (B2B)](https://play.google.com/store/apps/details?id=br.com.climatempo.ctsuite)  
 Aplicativo corporativo de monitoramento climático para grandes empresas.  
 💼 Utilizado nos setores de agronegócio, logística, construção e energia.  
 🚨 Alertas críticos automatizados e dashboards personalizados com dados em tempo real.  
