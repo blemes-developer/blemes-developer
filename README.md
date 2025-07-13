@@ -36,7 +36,7 @@ Principal portal de meteorologia do Brasil, com milhões de acessos diários.
 
 ---
 
-### 🔹 [AgroClima – Clima para o Produtor Rural](https://agroclima.climatempo.com.br/)  
+### 🔹 [Portal AgroClima – Clima para o Produtor Rural](https://agroclima.climatempo.com.br/)  
 Ferramenta digital voltada ao agronegócio com foco em decisões baseadas no clima.  
 🗺️ Mapas interativos de chuva, umidade, risco de queimadas e alagamentos.  
 📑 Boletins semanais com análises climáticas para o campo.  
