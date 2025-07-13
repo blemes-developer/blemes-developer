@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Bruno Lemes dos Santos!
 
-🎯 Desenvolvedor Mobile e Backend apaixonado por tecnologia, performance e soluções centradas no usuário.
+🎯 Engenheiro de Software com mais de 4 anos de experiência no desenvolvimento de software, atuando em projetos Web, Mobile e Backend.
 
 ## 🧠 Sobre mim
 
