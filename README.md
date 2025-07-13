@@ -20,14 +20,6 @@ App oficial da Climatempo com milhões de downloads, referência nacional em pre
 
 ---
 
-### 🔹 [Climatempo Web – Portal de Meteorologia](https://www.climatempo.com.br/)  
-Principal portal de meteorologia do Brasil, com milhões de acessos diários.  
-🌐 Trabalhei em features voltadas ao site e backend, com foco em escalabilidade e dados ao vivo.  
-📡 “Tempo Agora” com atualizações imediatas de temperatura, chuva, vento, umidade, pressão e índice UV.  
-🗺️ Mapas interativos: radar de chuva, risco de incêndio, marés, satélite e muito mais.
-
----
-
 ### 🔹 [SMAC – Soluções Meteorológicas Avançadas Climatempo (B2B)](https://play.google.com/store/apps/details?id=br.com.climatempo.ctsuite)  
 Aplicativo corporativo de monitoramento climático para grandes empresas.  
 💼 Utilizado nos setores de agronegócio, logística, construção e energia.  
@@ -36,7 +28,15 @@ Aplicativo corporativo de monitoramento climático para grandes empresas.
 
 ---
 
-### 🔹 [Plataforma Agroclimática – Clima para o Produtor Rural](https://agroclima.climatempo.com.br/)  
+### 🔹 [Portal Climatempo – Portal de Meteorologia](https://www.climatempo.com.br/)  
+Principal portal de meteorologia do Brasil, com milhões de acessos diários.  
+🌐 Trabalhei em features voltadas ao site e backend, com foco em escalabilidade e dados ao vivo.  
+📡 “Tempo Agora” com atualizações imediatas de temperatura, chuva, vento, umidade, pressão e índice UV.  
+🗺️ Mapas interativos: radar de chuva, risco de incêndio, marés, satélite e muito mais.
+
+---
+
+### 🔹 [AgroClima – Clima para o Produtor Rural](https://agroclima.climatempo.com.br/)  
 Ferramenta digital voltada ao agronegócio com foco em decisões baseadas no clima.  
 🗺️ Mapas interativos de chuva, umidade, risco de queimadas e alagamentos.  
 📑 Boletins semanais com análises climáticas para o campo.  
